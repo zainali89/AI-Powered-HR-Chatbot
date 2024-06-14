@@ -1,1 +1,3 @@
 # AI-Powered-HR-Chatbot
+
+In this project, I developed an HR chatbot leveraging LangChain technology to significantly improve how employees access and interact with HR resources. This AI-powered chatbot connects to a backend system containing HR documents in PDF format, such as policies, guidelines, and forms. Employees can use natural language queries to engage with the chatbot, which swiftly locates and retrieves the needed HR documents directly from the PDFs. This automation not only alleviates the HR department's workload by handling routine inquiries but also streamlines the document retrieval process, making HR procedures more efficient and user-friendly for employees.
